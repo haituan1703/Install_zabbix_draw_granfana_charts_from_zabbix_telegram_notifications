@@ -25,3 +25,7 @@ Nhớ thêm cả templete nữa nhé, không thì có thể update lại sau
 
 ![Hình 3](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix-client_3.png?raw=true)  
 
+Sau khi kết nối thành công thì trên màn hình trong phần host sẽ hiển thị  
+
+![Hình 4](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix-client_4.png?raw=true)
+
