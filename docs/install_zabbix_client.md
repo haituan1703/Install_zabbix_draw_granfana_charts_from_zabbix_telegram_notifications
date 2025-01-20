@@ -8,3 +8,4 @@
 
 Trên server cài đặt zabbix client, khi cài đặt xong chúng ta cần phải sửa một một chút cấu hình để cho zabbix server sẽ nhận được thông tin mà zabbix client thu thập từ phía server zabbix-client
 
+![Hình 1](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_client_1.png?raw=true)
