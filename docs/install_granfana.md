@@ -1,6 +1,6 @@
 # Cài đặt granfana và cấu hình plugin zabbix để granfa có thể lấy dữ liệu từ zabbix và vẽ biểu đồ
 ## Hướng dẫn cài đặt granfana trên ubuntu version 20.04
-Chúng chạy những dòng lệnh dưới đây 
+Chạy những dòng lệnh dưới đây 
 
 ```bash
 apt install -y gnupg2 curl software-properties-common
