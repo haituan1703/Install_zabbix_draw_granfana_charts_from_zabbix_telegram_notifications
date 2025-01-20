@@ -1,0 +1,3 @@
+- Thực hành cài đặt và sử dụng **Zabbix**  
+- Vẽ biểu đồ **Grafana** từ nguồn **Zabbix**  
+- Bắn cảnh báo lên **Telegram**
