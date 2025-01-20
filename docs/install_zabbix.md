@@ -23,7 +23,10 @@ Nhập mật khẩu chính là mật khẩu khi mình đã cài đặt trong DB,
 
 ![Hình 6](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_6.png?raw=true)  
 
-Tài khoản và mật khẩu mặc định của zabbix sẽ là Admin/zabbix (A trong Admin viết hoa)
+Tài khoản và mật khẩu mặc định của zabbix sẽ là Admin/zabbix (A trong Admin viết hoa)  
+![Hình 7](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_7.png?raw=true)  
+
+Và cuối cùng chúng ta sẽ được giao diện chính của zabbix
 
 
 
