@@ -27,5 +27,7 @@ Nhớ thêm cả templete nữa nhé, không thì có thể update lại sau
 
 Sau khi kết nối thành công thì trên màn hình trong phần host sẽ hiển thị  
 
-![Hình 4](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix-client_4.png?raw=true)
+![Hình 4](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix-client_4.png?raw=true)  
+
+Và chúng ta có thể sử dụng có template có sẵn, hoặc tự custom các item , các trigger phù hợp với nhu cầu muốn gửi cảnh báo của chúng ta
 
