@@ -16,3 +16,7 @@ Sau khi chạy xong thì chúng ta có thể đăng nhập vào giao diện củ
 Chúng ta đã đăng nhập vào giao diện dashboard của grafana và chúng ta sẽ thấy hình như sau  
 
 ![Hình 1](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_1.png?raw=true)  
+
+Tiếp theo chúng ta sẽ add plugin của zabbix vào granfana, tìm kiếm zabbix, install và enable zabbix
+
+
