@@ -19,9 +19,9 @@ Sau khi restart xong chúng ta có thể kiểm tra lại trạng thái xem zabb
 - Tiếp theo chúng ta sẽ tiến hành thiếp lập kết nối với zabbix server trên màn hình dashboard để tiến hành lấy dữ liệu thu thập zabbix client
 Chúng vào vào host trong phần data colection để tiến hành tạo host mới
 
-![Hình 2](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_client_2.png?raw=true)  
+![Hình 2](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix-client_2.png?raw=true)    
 
 Nhớ thêm cả templete nữa nhé, không thì có thể update lại sau 
 
-![Hình 3](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_client_3.png?raw=true)
+![Hình 3](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix-client_3.png?raw=true)  
 
