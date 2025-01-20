@@ -6,7 +6,7 @@
 - Tham khảo hướng dẫn trên trang web chính thức của zabbix, tương tự như zabbix server, nhưng đến đoạn cài zabbx thì chúng ta chỉ cần cài zabbix client
 [Truy cập zabbix download](https://www.zabbix.com/download?zabbix=6.4&os_distribution=ubuntu&os_version=20.04&components=server_frontend_agent&db=mysql&ws=apache)
 
-Trên server cài đặt zabbix client, khi cài đặt xong chúng ta cần phải sửa một một chút cấu hình để cho zabbix server sẽ nhận được thông tin mà zabbix client thu thập từ phía server zabbix-client: các tham số về server, server active và host
+Trên server cài đặt zabbix client, khi cài đặt xong chúng ta cần phải sửa một một chút cấu hình để cho zabbix server sẽ nhận được thông tin mà zabbix client thu thập từ phía server zabbix-client: các tham số về server, server active và hostname
 
 ![Hình 1](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_client_1.png?raw=true)  
 
