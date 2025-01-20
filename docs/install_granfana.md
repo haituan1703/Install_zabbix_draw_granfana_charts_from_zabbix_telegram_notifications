@@ -19,4 +19,9 @@ Chúng ta đã đăng nhập vào giao diện dashboard của grafana và chúng
 
 Tiếp theo chúng ta sẽ add plugin của zabbix vào granfana, tìm kiếm zabbix, install và enable zabbix
 
+![Hình 2](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_2.png?raw=true)  
+
+
+![Hình 3](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_3.png?raw=true)
+
 
