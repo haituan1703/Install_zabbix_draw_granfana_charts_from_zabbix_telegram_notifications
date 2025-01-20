@@ -8,4 +8,11 @@
 
 Trên server cài đặt zabbix client, khi cài đặt xong chúng ta cần phải sửa một một chút cấu hình để cho zabbix server sẽ nhận được thông tin mà zabbix client thu thập từ phía server zabbix-client: các tham số về server, server active và host
 
-![Hình 1](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_client_1.png?raw=true)
+![Hình 1](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_client_1.png?raw=true)  
+
+Sau khi thay đổi config xong chúng tiếp tục restart lại zabbix client bằng câu lệnh 
+
+```bash
+systemctl restart zabbix-agent.service
+```
+Sau khi restart xong chúng ta có thể kiểm tra lại trạng thái xem zabbix agent đã hoạt động được chưa
