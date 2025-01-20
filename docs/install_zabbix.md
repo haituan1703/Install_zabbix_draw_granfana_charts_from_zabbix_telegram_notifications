@@ -6,5 +6,5 @@
 - Tham khảo hướng dẫn trên trang web chính thức của zabbix
 [Truy cập zabbix download](https://www.zabbix.com/download?zabbix=6.4&os_distribution=ubuntu&os_version=20.04&components=server_frontend_agent&db=mysql&ws=apache)
 
-Sau khi cài đặt theo hướng dẫn chúng ta sẽ vào được giao diện  
+Sau khi cài đặt theo hướng dẫn chúng ta sẽ vào được giao diện, tiếp theo ấn vào nút  
 ![Hình 1](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/zabbix_1.png?raw=true)
