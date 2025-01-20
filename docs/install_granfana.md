@@ -26,7 +26,14 @@ Tiếp theo chúng ta sẽ add plugin của zabbix vào granfana, tìm kiếm za
 
 
 
-Sau khi đã thêm plugin xong rồi chúng ta tiếp tục thêm data source là zabbix vào
+Sau khi đã thêm plugin xong rồi chúng ta tiếp tục thêm data source là zabbix vào theo các hình dưới đây
+
+![Hình 4](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_4.png?raw=true)  
+
+![Hình 5](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_5.png?raw=true)  
+
+![Hình 6](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_6.png?raw=true)
+
 
 
 
