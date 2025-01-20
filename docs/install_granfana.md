@@ -30,7 +30,12 @@ Sau khi đã thêm plugin xong rồi chúng ta tiếp tục thêm data source l�
 
 ![Hình 4](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_4.png?raw=true)  
 
+Chúng ta để ý một chút ở phần URL nếu chưa add host vào thì chúng ta cứ dùng địa chỉ IP như bình thường
+
 ![Hình 5](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_5.png?raw=true)  
+
+Sau Khi được như vậy, chúng ta tiến hành lưu lại và test, kết quả hiển thị như trên màn hình là thành công 
+
 
 ![Hình 6](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_6.png?raw=true)
 
