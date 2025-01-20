@@ -34,6 +34,8 @@ Chúng ta để ý một chút ở phần URL nếu chưa add host vào thì ch�
 
 ![Hình 5](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_5.png?raw=true)  
 
+Phần nhập user và password chính là user và password dành cho zabbix
+
 Sau Khi được như vậy, chúng ta tiến hành lưu lại và test, kết quả hiển thị như trên màn hình là thành công 
 
 
