@@ -16,3 +16,4 @@ Sau khi thay đổi config xong chúng tiếp tục restart lại zabbix client 
 systemctl restart zabbix-agent.service
 ```
 Sau khi restart xong chúng ta có thể kiểm tra lại trạng thái xem zabbix agent đã hoạt động được chưa
+- Tiếp theo chúng ta sẽ tiến hành thiếp lập kết nối với zabbix server trên màn hình dashboard để tiến hành lấy dữ liệu thu thập zabbix client
