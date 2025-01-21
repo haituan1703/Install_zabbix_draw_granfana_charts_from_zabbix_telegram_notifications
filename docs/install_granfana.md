@@ -47,6 +47,10 @@ Sau Khi được như vậy, chúng ta tiến hành lưu lại và test, kết q
 
 - Tiếp theo chúng ta có thể chọn các trường để điền vào, rồi có thể chọn tên title của biểu đồ để có thể xem được trực quan biểu đồ
 
+![Hình 8](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_8.png?raw=true)  
+
+
+![Hình 9](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_9.png?raw=true)
 
 
 
