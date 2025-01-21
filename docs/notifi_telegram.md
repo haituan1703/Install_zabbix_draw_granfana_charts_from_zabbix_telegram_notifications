@@ -14,5 +14,6 @@ Sau đó chúng ta có thể test xem chat bot đã hoạt động chưa
 
 ![Hình 3](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/telegram_3.png?raw=true)  
 
+Phần chọn message bắn lên telegram mình có thể tự custom hoặc không nó sẽ sẽ bắn thông báo theo kiểu mặc định
 
 ![Hình 4](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/telegram_4.png?raw=true)
