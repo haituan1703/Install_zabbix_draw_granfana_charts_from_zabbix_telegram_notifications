@@ -43,7 +43,9 @@ Sau Khi được như vậy, chúng ta tiến hành lưu lại và test, kết q
 
 - Tiếp tục chúng ta sẽ tạo dashboard và chúng ta sẽ thử vẽ một biểu đồ dựa vào data source của zabbix
 
-![Hình 7](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_7.png?raw=true)
+![Hình 7](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/granfana_7.png?raw=true)  
+
+- 
 
 
 
