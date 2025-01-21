@@ -10,3 +10,9 @@ Sau khi lấy được token, và group ID của cái group mà mình sử dụn
 Sau đó chúng ta có thể test xem chat bot đã hoạt động chưa  
 
 ![Hình 2](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/telegram_2.png?raw=true)
+
+
+![Hình 3](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/telegram_3.png?raw=true)  
+
+
+![Hình 4](https://github.com/haituan1703/Install_zabbix_draw_granfana_charts_from_zabbix_telegram_notifications/blob/main/docs/image/telegram_4.png?raw=true)
